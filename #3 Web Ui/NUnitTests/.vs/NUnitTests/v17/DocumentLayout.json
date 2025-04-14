@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\NUnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\desktop\\nunittests\\nunittests\\languagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\languagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\desktop\\nunittests\\nunittests\\contactformtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\contactformtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\desktop\\nunittests\\nunittests\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\desktop\\nunittests\\nunittests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\desktop\\nunittests\\nunittests\\abouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\abouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactFormTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\NUnitTests\\NUnitTests\\ContactFormTest.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\ContactFormTest.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\NUnitTests\\NUnitTests\\ContactFormTest.cs",
+              "RelativeToolTip": "NUnitTests\\ContactFormTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:47:10.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LanguageTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\NUnitTests\\NUnitTests\\LanguageTest.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\LanguageTest.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\NUnitTests\\NUnitTests\\LanguageTest.cs",
+              "RelativeToolTip": "NUnitTests\\LanguageTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:40:27.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\NUnitTests\\NUnitTests\\SearchTest.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\SearchTest.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\NUnitTests\\NUnitTests\\SearchTest.cs",
+              "RelativeToolTip": "NUnitTests\\SearchTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:37:19.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\NUnitTests\\NUnitTests\\TestBase.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\TestBase.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\NUnitTests\\NUnitTests\\TestBase.cs",
+              "RelativeToolTip": "NUnitTests\\TestBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:29:03.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\NUnitTests\\NUnitTests\\AboutTest.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\AboutTest.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\NUnitTests\\NUnitTests\\AboutTest.cs",
+              "RelativeToolTip": "NUnitTests\\AboutTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:40:18.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7D545F-F49B-4490-B143-46FDAB22DA0C}|XUnitTests\\XUnitTests.csproj|c:\\users\\aleks\\source\\repos\\xunittests\\xunittests\\abouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7D545F-F49B-4490-B143-46FDAB22DA0C}|XUnitTests\\XUnitTests.csproj|solutionrelative:xunittests\\abouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7D545F-F49B-4490-B143-46FDAB22DA0C}|XUnitTests\\XUnitTests.csproj|c:\\users\\aleks\\source\\repos\\xunittests\\xunittests\\searchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7D545F-F49B-4490-B143-46FDAB22DA0C}|XUnitTests\\XUnitTests.csproj|solutionrelative:xunittests\\searchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7D545F-F49B-4490-B143-46FDAB22DA0C}|XUnitTests\\XUnitTests.csproj|c:\\users\\aleks\\source\\repos\\xunittests\\xunittests\\languagechangetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7D545F-F49B-4490-B143-46FDAB22DA0C}|XUnitTests\\XUnitTests.csproj|solutionrelative:xunittests\\languagechangetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7D545F-F49B-4490-B143-46FDAB22DA0C}|XUnitTests\\XUnitTests.csproj|c:\\users\\aleks\\source\\repos\\xunittests\\xunittests\\contactformtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7D545F-F49B-4490-B143-46FDAB22DA0C}|XUnitTests\\XUnitTests.csproj|solutionrelative:xunittests\\contactformtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7D545F-F49B-4490-B143-46FDAB22DA0C}|XUnitTests\\XUnitTests.csproj|c:\\users\\aleks\\source\\repos\\xunittests\\xunittests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7D545F-F49B-4490-B143-46FDAB22DA0C}|XUnitTests\\XUnitTests.csproj|solutionrelative:xunittests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactFormTests.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\XUnitTests\\ContactFormTests.cs",
+              "RelativeDocumentMoniker": "XUnitTests\\ContactFormTests.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\XUnitTests\\ContactFormTests.cs",
+              "RelativeToolTip": "XUnitTests\\ContactFormTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:05:31.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanguageChangeTests.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\XUnitTests\\LanguageChangeTests.cs",
+              "RelativeDocumentMoniker": "XUnitTests\\LanguageChangeTests.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\XUnitTests\\LanguageChangeTests.cs",
+              "RelativeToolTip": "XUnitTests\\LanguageChangeTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:04:39.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchTests.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\XUnitTests\\SearchTests.cs",
+              "RelativeDocumentMoniker": "XUnitTests\\SearchTests.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\XUnitTests\\SearchTests.cs",
+              "RelativeToolTip": "XUnitTests\\SearchTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:49:19.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\XUnitTests\\AboutTest.cs",
+              "RelativeDocumentMoniker": "XUnitTests\\AboutTest.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\XUnitTests\\AboutTest.cs",
+              "RelativeToolTip": "XUnitTests\\AboutTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:11:33.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\XUnitTests\\TestBase.cs",
+              "RelativeDocumentMoniker": "XUnitTests\\TestBase.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\XUnitTests\\XUnitTests\\TestBase.cs",
+              "RelativeToolTip": "XUnitTests\\TestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:01:34.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
