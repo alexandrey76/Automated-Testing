@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\languagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\languagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\contactformtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\contactformtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\contactpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\contactpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\abouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\abouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|c:\\users\\aleks\\source\\repos\\nunittests\\nunittests\\testuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB733B-0027-4E9F-A8D3-3E11919F2B70}|NUnitTests\\NUnitTests.csproj|solutionrelative:nunittests\\testuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutPage.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\AboutPage.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\AboutPage.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\AboutPage.cs",
+              "RelativeToolTip": "NUnitTests\\AboutPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:44:11.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\HomePage.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\HomePage.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\HomePage.cs",
+              "RelativeToolTip": "NUnitTests\\HomePage.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA8wD0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:21:13.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LanguageTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\LanguageTest.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\LanguageTest.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\LanguageTest.cs",
+              "RelativeToolTip": "NUnitTests\\LanguageTest.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:40:27.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactFormTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\ContactFormTest.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\ContactFormTest.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\ContactFormTest.cs",
+              "RelativeToolTip": "NUnitTests\\ContactFormTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:47:10.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactPage.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\ContactPage.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\ContactPage.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\ContactPage.cs",
+              "RelativeToolTip": "NUnitTests\\ContactPage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:44:37.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\SearchTest.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\SearchTest.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\SearchTest.cs",
+              "RelativeToolTip": "NUnitTests\\SearchTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:37:19.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\SearchPage.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\SearchPage.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\SearchPage.cs",
+              "RelativeToolTip": "NUnitTests\\SearchPage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:45:02.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\Singleton.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\Singleton.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\Singleton.cs",
+              "RelativeToolTip": "NUnitTests\\Singleton.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:19:02.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\AboutTest.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\AboutTest.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\AboutTest.cs",
+              "RelativeToolTip": "NUnitTests\\AboutTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:40:18.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\BasePage.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\BasePage.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\BasePage.cs",
+              "RelativeToolTip": "NUnitTests\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:20:49.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\TestBase.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\TestBase.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\TestBase.cs",
+              "RelativeToolTip": "NUnitTests\\TestBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:29:03.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestUser.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\TestUser.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\TestUser.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\TestUser.cs",
+              "RelativeToolTip": "NUnitTests\\TestUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:45:57.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\Factory.cs",
+              "RelativeDocumentMoniker": "NUnitTests\\Factory.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\NUnitTests\\NUnitTests\\Factory.cs",
+              "RelativeToolTip": "NUnitTests\\Factory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:47:10.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
