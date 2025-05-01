@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|f:\\zdostavka\\automated-testing\\#6 loggers\\pat_task\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|solutionrelative:pat_task\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|f:\\zdostavka\\automated-testing\\#6 loggers\\pat_task\\languagechangetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|solutionrelative:pat_task\\languagechangetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|f:\\zdostavka\\automated-testing\\#6 loggers\\pat_task\\aboutpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|solutionrelative:pat_task\\aboutpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|f:\\zdostavka\\automated-testing\\#6 loggers\\pat_task\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|solutionrelative:pat_task\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|f:\\zdostavka\\automated-testing\\#6 loggers\\pat_task\\contactpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|solutionrelative:pat_task\\contactpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|f:\\zdostavka\\automated-testing\\#6 loggers\\pat_task\\contactformtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|solutionrelative:pat_task\\contactformtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|f:\\zdostavka\\automated-testing\\#6 loggers\\pat_task\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|solutionrelative:pat_task\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|f:\\zdostavka\\automated-testing\\#6 loggers\\pat_task\\webdriversinglenton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|solutionrelative:pat_task\\webdriversinglenton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|f:\\zdostavka\\automated-testing\\#6 loggers\\pat_task\\searchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|solutionrelative:pat_task\\searchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|f:\\zdostavka\\automated-testing\\#6 loggers\\pat_task\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E15A20-40CB-416A-B529-BF9877BDC888}|Pat_Task\\NUnitTests.csproj|solutionrelative:pat_task\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LanguageChangeTest.cs",
+              "DocumentMoniker": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\LanguageChangeTest.cs",
+              "RelativeDocumentMoniker": "Pat_Task\\LanguageChangeTest.cs",
+              "ToolTip": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\LanguageChangeTest.cs",
+              "RelativeToolTip": "Pat_Task\\LanguageChangeTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:26:48.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutPageTests.cs",
+              "DocumentMoniker": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\AboutPageTests.cs",
+              "RelativeDocumentMoniker": "Pat_Task\\AboutPageTests.cs",
+              "ToolTip": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\AboutPageTests.cs",
+              "RelativeToolTip": "Pat_Task\\AboutPageTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:26:38.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LanguagePage.cs",
+              "DocumentMoniker": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\LanguagePage.cs",
+              "RelativeDocumentMoniker": "Pat_Task\\LanguagePage.cs",
+              "ToolTip": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\LanguagePage.cs",
+              "RelativeToolTip": "Pat_Task\\LanguagePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:26:15.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactPage.cs",
+              "DocumentMoniker": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\ContactPage.cs",
+              "RelativeDocumentMoniker": "Pat_Task\\ContactPage.cs",
+              "ToolTip": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\ContactPage.cs",
+              "RelativeToolTip": "Pat_Task\\ContactPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:16:51.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactFormTest.cs",
+              "DocumentMoniker": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\ContactFormTest.cs",
+              "RelativeDocumentMoniker": "Pat_Task\\ContactFormTest.cs",
+              "ToolTip": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\ContactFormTest.cs",
+              "RelativeToolTip": "Pat_Task\\ContactFormTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:16:48.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\BaseTest.cs",
+              "RelativeDocumentMoniker": "Pat_Task\\BaseTest.cs",
+              "ToolTip": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\BaseTest.cs",
+              "RelativeToolTip": "Pat_Task\\BaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:16:44.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutPage.cs",
+              "DocumentMoniker": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\AboutPage.cs",
+              "RelativeDocumentMoniker": "Pat_Task\\AboutPage.cs",
+              "ToolTip": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\AboutPage.cs",
+              "RelativeToolTip": "Pat_Task\\AboutPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:16:42.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebDriverSinglenton.cs",
+              "DocumentMoniker": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\WebDriverSinglenton.cs",
+              "RelativeDocumentMoniker": "Pat_Task\\WebDriverSinglenton.cs",
+              "ToolTip": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\WebDriverSinglenton.cs",
+              "RelativeToolTip": "Pat_Task\\WebDriverSinglenton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:27:01.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchTests.cs",
+              "DocumentMoniker": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\SearchTests.cs",
+              "RelativeDocumentMoniker": "Pat_Task\\SearchTests.cs",
+              "ToolTip": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\SearchTests.cs",
+              "RelativeToolTip": "Pat_Task\\SearchTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:16:40.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\SearchPage.cs",
+              "RelativeDocumentMoniker": "Pat_Task\\SearchPage.cs",
+              "ToolTip": "F:\\zDostavka\\Automated-Testing\\#6 Loggers\\Pat_Task\\SearchPage.cs",
+              "RelativeToolTip": "Pat_Task\\SearchPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:16:38.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
